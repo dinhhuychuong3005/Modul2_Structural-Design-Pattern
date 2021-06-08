@@ -1,3 +1,5 @@
+package TH_Proxy;
+
 public class Main {
     public static void main(String[] args) {
         MathCalculatorProxy proxy = new MathCalculatorProxy();

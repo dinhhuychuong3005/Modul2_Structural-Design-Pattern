@@ -1,4 +1,8 @@
-public class MathCalculator implements Calculator{
+package TH_Proxy;
+
+import TH_Proxy.Calculator;
+
+public class MathCalculator implements Calculator {
     @Override
     public double add(double first, double second) {
         return first + second;

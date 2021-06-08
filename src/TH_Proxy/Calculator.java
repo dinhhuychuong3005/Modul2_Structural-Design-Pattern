@@ -1,3 +1,5 @@
+package TH_Proxy;
+
 public interface Calculator {
     double add (double first,double second);
     double sub (double first,double second);

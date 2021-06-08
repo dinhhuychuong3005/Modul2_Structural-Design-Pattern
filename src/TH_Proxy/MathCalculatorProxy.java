@@ -1,4 +1,9 @@
-public class MathCalculatorProxy implements Calculator{
+package TH_Proxy;
+
+import TH_Proxy.Calculator;
+import TH_Proxy.MathCalculator;
+
+public class MathCalculatorProxy implements Calculator {
     private MathCalculator mathCalculator;
     public MathCalculatorProxy(){
         this.mathCalculator = new MathCalculator();
