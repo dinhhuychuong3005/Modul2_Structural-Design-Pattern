@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="FileWorker">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../FileWorker" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../FileWorker" recursive="false" />
+  </library>
+</component>
